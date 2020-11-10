@@ -1,0 +1,6 @@
+framework module Pods_SduApp {
+  umbrella header "Pods-SduApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
